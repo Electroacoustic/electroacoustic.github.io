@@ -1,2 +1,0 @@
-# electroacoustic.github.io
-homepage
